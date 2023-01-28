@@ -60,7 +60,7 @@
                 <div class="text-2xl font-bold">{{ day.precip_mm }} </div>
               </div>
             </div>
-            <div class="bottom flex justify-center gap-5 pt-3">
+            <!-- <div class="bottom flex justify-center gap-5 pt-3">
               <div class="">
                 <div class="">Давление</div>
                 <div class="text-2xl font-bold">{{ day.pressure_mb }}</div>
@@ -81,7 +81,7 @@
                 <div class="">Сейчас</div>
                 <div class="text-2xl font-bold">{{ day.temp_c }}<span class="text-base">°C</span> </div>
               </div>
-            </div>
+            </div> -->
           </div>
         </div>
         
